@@ -1,9 +1,9 @@
 menu "Abiots Test component"
-
+    
     config ABIOTS_INCLUDE_THIS
         string "AbIots include this component in the project"
         default ""
         help
             Default will include this in the project.
 
-endmenu  # ABiots Test Component
+endmenu # ABiots Test Component
