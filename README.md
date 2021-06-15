@@ -1,3 +1,4 @@
+<img src="./images/logo.png" alt="Abiots" align="right">
 # abiots-things-template
 
 ## This is the template for the ESP-IDF projects with components.
