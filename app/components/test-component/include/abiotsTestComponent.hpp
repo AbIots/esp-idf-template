@@ -11,7 +11,8 @@ extern "C"
     private:
         const char *TAG = "AbiotsTestComponent";
         uint32_t size;
-        const char *maxSize = CONFIG_ABIOTS_INCLUDE_THIS;
+        const char *abiotsTestName = CONFIG_ABIOTS_TEST_NAME;
+        const char *projectVer = CONFIG_APP_PROJECT_VER;
 
     public:
         AbiotsTestComponent(uint32_t size) : size(size){};

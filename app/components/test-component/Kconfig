@@ -1,7 +1,7 @@
 menu "Abiots Test component"
     
-    config ABIOTS_INCLUDE_THIS
-        string "AbIots include this component in the project"
+    config ABIOTS_TEST_NAME
+        string "A test name for this component"
         default ""
         help
             Default will include this in the project.
