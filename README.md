@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img src="./images/logo.png" alt="Abiots" align="right">
 # abiots-things-template v1.0.0
 
