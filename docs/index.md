@@ -1,36 +1,25 @@
-## Welcome to GitHub Pages
+<img src="../images/logo.png" alt="Abiots" align="right">
 
-You can use the [editor on GitHub](https://github.com/AbIoTsIO/esp-idf-template/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# esp-idf-template v1.0.0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## This is the template for the ESP-IDF projects with components.
+This project has default component named TestComponent and its projects can be configured running the menuconfig.
 
-### Markdown
+## component configurations:
+* Run the menuconfig and in that we would be finding Abiots Test Component. 
+* To access the config in the code start with CONFIG_ and we could find all the configurations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## The Abiots directory is structured as follows:
 
-```markdown
-Syntax highlighted code block
+| File / Folder | Contents                                           |
+| ------------- | -------------------------------------------------- |
+| app           | Project Directory                                  |
+| images        | Project Images Directory                           |
+| app/components    | All the Abiots Components                      |
+| app/lib           | Abiots Core library                            |
+| app/test          | Test code                                      |
+| app/src           | Main component Directory                       |
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AbIoTsIO/esp-idf-template/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
