@@ -1,6 +1,6 @@
 <img src="./images/logo.png" alt="Abiots" align="right">
 
-# esp-idf-template v1.0.0
+# Esp-idf-c++-template v1.0.0
 
 ## This is the template for the ESP-IDF projects with components.
 This project has default component named TestComponent and its projects can be configured running the menuconfig.
@@ -19,3 +19,8 @@ This project has default component named TestComponent and its projects can be c
 | app/lib           | Abiots Core library                            |
 | app/test          | Test code                                      |
 | app/src           | Main component Directory                       |
+
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
