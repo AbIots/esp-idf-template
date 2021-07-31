@@ -1,4 +1,4 @@
-<img src="../images/logo.png" alt="Abiots" align="right">
+<img src="https://github.com/AbIoTsIO/esp-idf-c-plus-plus-template/blob/56e0a061c9de7477d1a388f9529357095e33a977/images/logo.png" alt="Abiots" align="right">
 
 # Esp-idf-c++-template v1.0.0
 
