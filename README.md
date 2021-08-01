@@ -1,6 +1,10 @@
-<img src="./images/logo.png" alt="Abiots" align="right">
+[![Issues][issues-shield]][issues-url]
 
-# Esp-idf-c++-template
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/88239355?s=400&u=0e1411756dd3c02f8a909d21179d4022ae95ba44&v=4" alt="AbIoTsLOGO"/>
+</div>
+
+# Template application for ESP32 with ESP-IDF and C++ using platformIO
 
 ## This is the template for the ESP-IDF projects with components.
 This project has default component named TestComponent and its projects can be configured running the menuconfig.
@@ -30,3 +34,7 @@ Code in this repository is in the Public Domain (or CC0 licensed, at your option
 ## Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[issues-shield]: https://img.shields.io/github/v/release/AbIoTs/esp-idf-template.svg
+[issues-url]: https://github.com/AbIots/esp-idf-template/issues
